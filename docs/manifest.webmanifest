@@ -1,0 +1,20 @@
+{
+  "name": "Mining Game",
+  "short_name": "Mining Game",
+  "description": "Mine, blast, haul, and build tracks through a procedural underground world.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#12100c",
+  "theme_color": "#12100c",
+  "categories": ["games"],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
